@@ -1,0 +1,7 @@
+.tree {
+    max-height: 900px;
+    overflow: scroll;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f1eaea;   
+}

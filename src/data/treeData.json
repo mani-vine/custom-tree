@@ -1,0 +1,148 @@
+[
+    {
+      "id": 1,
+      "name": "Folder 1",
+      "isFolder": true,
+      "children": [
+        {
+          "id": 2,
+          "name": "Subfolder 1",
+          "isFolder": true,
+          "children": [
+            {
+              "id": 3,
+              "name": "File 1",
+              "isFolder": false
+            },
+            {
+              "id": 4,
+              "name": "File 2",
+              "isFolder": false
+            },
+            {
+              "id": 5,
+              "name": "File 3",
+              "isFolder": false
+            },
+            {
+              "id": 23,
+              "name": "Subfolder 1",
+              "isFolder": true,
+              "children": [
+                {
+                  "id": 24,
+                  "name": "File 1",
+                  "isFolder": false
+                },
+                {
+                  "id": 25,
+                  "name": "File 2",
+                  "isFolder": false
+                },
+                {
+                  "id": 26,
+                  "name": "File 3",
+                  "isFolder": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Subfolder 2",
+          "isFolder": true,
+          "children": [
+            {
+              "id": 7,
+              "name": "File 1",
+              "isFolder": false
+            },
+            {
+              "id": 8,
+              "name": "File 2",
+              "isFolder": false
+            },
+            {
+              "id": 9,
+              "name": "File 3",
+              "isFolder": false
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Subfolder 3",
+          "isFolder": true,
+          "children": [
+            {
+              "id": 11,
+              "name": "File 1",
+              "isFolder": false
+            },
+            {
+              "id": 12,
+              "name": "File 2",
+              "isFolder": false
+            },
+            {
+              "id": 13,
+              "name": "File 3",
+              "isFolder": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Folder 2",
+      "isFolder": true,
+      "children": [
+        {
+          "id": 15,
+          "name": "Subfolder 1",
+          "isFolder": true,
+          "children": [
+            {
+              "id": 16,
+              "name": "File 1",
+              "isFolder": false
+            },
+            {
+              "id": 17,
+              "name": "File 2",
+              "isFolder": false
+            },
+            {
+              "id": 18,
+              "name": "File 3",
+              "isFolder": false
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "Subfolder 2",
+          "isFolder": true,
+          "children": [
+            {
+              "id": 20,
+              "name": "File 1",
+              "isFolder": false
+            },
+            {
+              "id": 21,
+              "name": "File 2",
+              "isFolder": false
+            },
+            {
+              "id": 22,
+              "name": "File 3",
+              "isFolder": false
+            }
+          ]
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,14 @@
+.folder {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin: 10px 0 10px;
+}
+
+.children {
+    padding-left: 45px;
+}
+
+.pl-27 {
+    padding-left: 27px;
+}

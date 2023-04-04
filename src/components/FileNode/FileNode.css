@@ -1,0 +1,9 @@
+.file {
+    display: flex;
+}
+
+.file-container {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0 10px;
+}
